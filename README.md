@@ -9,7 +9,7 @@
 ## 🧠 Sobre mim
 
 Sou estudante de **Gestão de TI**, atualmente focado no aprendizado de **desenvolvimento web**.  
-Tenho experiência com **HTML, CSS e JavaScript**, estou iniciando meus estudos em **TypeScript** e **SQL**, e busco evoluir constantemente através de projetos práticos.
+Tenho experiência com **HTML, CSS, JavaScript** e **SQL (dbeaver)**, estou iniciando meus estudos em **TypeScript** e **REACT**, e busco evoluir constantemente através de projetos práticos.
 
 Gosto de aprender na prática, versionar meus projetos no GitHub e melhorar meu código a cada nova versão.
 
@@ -21,6 +21,7 @@ Gosto de aprender na prática, versionar meus projetos no GitHub e melhorar meu 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---

@@ -31,8 +31,9 @@ Gosto de aprender na prática, versionar meus projetos no GitHub e melhorar meu 
 🔹 **Personal Profile**  
 Projeto pessoal desenvolvido com HTML, CSS e JavaScript, com foco em layout responsivo e boas práticas iniciais de desenvolvimento web.
 
-➡️ Repositório:  
+➡️ Repositórios:  
 https://github.com/kelvin-dev23/Personal-profile
+https://github.com/kelvin-dev23/Corinthians-web
 
 ---
 
